@@ -1,6 +1,8 @@
-# Telegram-Bot
+# Project Description: IMDb Movie Information Telegram Bot
 
-This project involves creating a Telegram bot in Python that extracts movie details from IMDb using the OMDB API. The bot allows users to enter movie titles and receive instant information such as ratings, release dates, and cast details directly within their Telegram chats. It also supports exporting fetched data in CSV format via Telegram, integrating web scraping techniques learned from various online resources.
-
+- Extracts movie details from IMDb using the OMDB API.
+- Built with Python, incorporating web scraping techniques from articles and YouTube tutorials.
+- Allows users to interact by entering movie titles and provides instant information such as ratings, release dates, and cast details.
+- Supports exporting fetched data in CSV format directly through Telegram.
 
 ![Demo of my project](https://github.com/santoydv/Telegram-Bot/blob/main/telebot.gif)
