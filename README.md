@@ -1,7 +1,6 @@
 # Telegram-Bot
 
-The task was challenging for me since I was not familiar with Python itself, so I had to learn all API calls, file handling, and working with CSV files in Python. Despite that, the various articles, YouTube tutorials, and other internet resources made this one easier than others.
-
+This project involves creating a Telegram bot in Python that extracts movie details from IMDb using the OMDB API. The bot allows users to enter movie titles and receive instant information such as ratings, release dates, and cast details directly within their Telegram chats. It also supports exporting fetched data in CSV format via Telegram, integrating web scraping techniques learned from various online resources.
 
 
 ![Demo of my project](https://github.com/santoydv/Telegram-Bot/blob/main/telebot.gif)
